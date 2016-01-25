@@ -1,2 +1,1 @@
-# hello-world
-test
+Hello world repository for test
